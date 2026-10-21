@@ -59,4 +59,4 @@ itemprefab1.ColorSlots = {ColorSlot.CreateInstance('Main color', ColorPaletteMan
 
 
 ## 💬 Community & Support / Сообщество и поддержка
-🔗 **Discord Server / Discord-сервер:** [https://discord.gg/M5RkdxP6jx]
+🔗 **Discord Server / Discord-сервер:** [Присоединиться к серверу](https://discord.gg/M5RkdxP6jx)
