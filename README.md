@@ -4,8 +4,6 @@ This mod displays hidden in-game statistics and adds RGB "soap" for free.
 
 > **Created by Paul.Epifancev #warlockforbugs**  
 > Discord: anon.jun  
-> GitHub: https://github.com/Paul-Epifancev/MDRG-Modding-Toolkit
-
 ---
 
 ## ⚠️ IMPORTANT LICENSING WARNING / ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ О ЛИЦЕНЗИИ ⚠️
@@ -61,4 +59,4 @@ itemprefab1.ColorSlots = {ColorSlot.CreateInstance('Main color', ColorPaletteMan
 
 
 ## 💬 Community & Support / Сообщество и поддержка
-🔗 **Discord Server / Discord-сервер:** [https://discord.gg/M5RkdxP6jx)  
+🔗 **Discord Server / Discord-сервер:** [https://discord.gg/M5RkdxP6jx]
