@@ -1,4 +1,4 @@
-# MDRG Hidden Variables Viewer & Customization Suite
+# MDRG Hidden Variables Viewer
 
 This mod displays hidden in-game statistics and adds fully customizable RGB "soap" for free.
 
