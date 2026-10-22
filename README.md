@@ -63,3 +63,6 @@ Replaces the expensive (4200$), static-colored vanilla soap with a **free, fully
 ```lua
 itemprefab1.CanChangeColor = true
 itemprefab1.ColorSlots = {ColorSlot.CreateInstance('Main color', ColorPaletteManager.GetColorPaletteByName('partpalette'))}
+
+   ## 💬 Community & Support / Сообщество и поддержка
+   🔗 **Discord Server:** [M.D.R.G Modding Lab: Making Science Project](https://discord.gg/M5RkdxP6jx)
