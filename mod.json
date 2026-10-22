@@ -1,0 +1,22 @@
+{
+    "name": "Hidden Variables Viewer",
+    "description": "Author: anon.jun",
+    "modVersion": "1.0.0",
+    "OnGameStart": {
+        "luaFiles": 
+		[
+		"scriptbot.lua",
+		"scriptplayer.lua",
+		"gamestat.lua",
+		"scriptsoap.lua"
+		]
+    },
+    "targetVersion": "0.97.12",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639280370483326035,
+        "guid": {
+            "serializedGuid": "910ea8f3-49e0-437d-b432-0b4b8dcf3095"
+        }
+    }
+}
