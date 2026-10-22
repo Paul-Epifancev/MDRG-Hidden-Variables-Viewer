@@ -1,41 +1,48 @@
 # MDRG-Hidden-Variables-Viewer
 This mod displays hidden in-game statistics and adds RGB "soap" for free.
-# MDRG Lua Modding Toolkit - Statistics & Customization Suite
 
-> **Created by Paul.Epifancev #warlockforbugs**  
-> Discord: anon.jun  
----
+Player Statistics 
+Bot Statistics 
+AND GLOBAL WORLD PROGRESS
 
-## ⚠️ IMPORTANT LICENSING WARNING / ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ О ЛИЦЕНЗИИ ⚠️
+Статистика игрока 
+Бота 
+И ГЛОБАЛЬНЫЙ ПРОГРЕСС МИРА
 
-This mod collection is and will **ALWAYS be 100% FREE and OPEN SOURCE**.  
+⚠️ IMPORTANT LICENSING WARNING / ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ О ЛИЦЕНЗИИ ⚠️
+
+This mod is and will ALWAYS be 100% FREE and OPEN SOURCE.
 I do not have a Patreon, Ko-fi, or any paid subscriptions.
 
-Any version of this mod, or its source code, found behind a paywall, subscription service, or sold by third parties (including game developers or other content creators) is an **unauthorized redistribution** of this open-source project.
+Any version of this mod, or its source code, found behind a paywall, subscription service, or sold by third parties (including game developers or other content creators) is an unauthorized redistribution of this open-source project.
 
-Please do not support unauthorized monetization of community work. For your safety and to support the project, download **ONLY** from this official GitHub repository.
+Please do not support unauthorized monetization of community work. For your safety and to support the project, download ONLY from the official GitHub repository
 
 ---
 
-*(Этот мод есть и всегда будет НАВСЕГДА БЕСПЛАТНЫМ и с ОТКРЫТЫМ ИСХОДНЫМ КОДОМ.  
+Этот мод есть и всегда будет НАВСЕГДА БЕСПЛАТНЫМ и с ОТКРЫТЫМ ИСХОДНЫМ КОДОМ.
 У меня нет Patreon, Ko-fi или платных подписок.
 
-Любая версия этого мода или его исходного кода, находящаяся за платным доступом, в сервисе по подписке или продаваемая третьими лицами (включая разработчиков игры или других создателей контента), является **несанкционированным распространением** этого Open Source проекта.
+Любая версия этого мода или его исходного кода, находящаяся за платным доступом, в сервисе по подписке или продаваемая третьими лицами (включая разработчиков игры или других создателей контента), является несанкционированным распространением этого Open Source проекта.
 
-Пожалуйста, не поддерживайте несанкционированную монетизацию труда комьюнити. Для вашей безопасности и поддержки проекта скачивайте **ТОЛЬКО** из этого официального репозитория GitHub.)*
+Пожалуйста, не поддерживайте несанкционированную монетизацию труда комьюнити. Для вашей безопасности и поддержки проекта скачивайте ТОЛЬКО из официального репозитория GitHub
 
 ---
 
-## 📋 OVERVIEW / ОБЗОР
-
-This repository contains a collection of **free, open-source Lua mods** for *My Dystopian Robot Girlfriend* that provide deep insights into game mechanics and enhanced customization options. All mods use the game's native `ModUtilities` API with **zero Harmony patches**, ensuring maximum compatibility and **0% FPS impact**.
 
 **Key Features:**
 - ✅ **100% Free** - No paywalls, no subscriptions
 - ✅ **Open Source** - Full code available for review
 - ✅ **Safe** - No malware, no telemetry, no hidden functions
 - ✅ **Optimized** - Pure Lua using native game APIs
-- ✅ **Compatible** - Works with MelonLoader and other mods
+- ✅**Works on PC and Android** - cross-platform Lua scripts
+
+**Основные особенности:**
+- ✅ **Полностью бесплатно** — никаких платных доступов или подписок
+- ✅ **Открытый исходный код** — весь код доступен для проверки
+- ✅ **Безопасно** — без вредоносных программ, телеметрии и скрытых функций
+- ✅ **Оптимизировано** — чистый код на языке Lua с использованием нативных игровых API
+- ✅ **Работает на ПК и Android** — кроссплатформенные Lua-скрипты
 
 ---
 
