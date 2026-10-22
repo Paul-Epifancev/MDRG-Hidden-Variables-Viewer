@@ -65,4 +65,4 @@ itemprefab1.CanChangeColor = true
 itemprefab1.ColorSlots = {ColorSlot.CreateInstance('Main color', ColorPaletteManager.GetColorPaletteByName('partpalette'))}
 
    ## 💬 Community & Support / Сообщество и поддержка
-   🔗 **Discord Server:** [M.D.R.G Modding Lab: Making Science Project](https://discord.gg/M5RkdxP6jx)
+   🔗 **Discord Server:** [M.D.R.G Modding Lab: Making Science Project](https://discord.gg/tnz9ZwhC4h)
